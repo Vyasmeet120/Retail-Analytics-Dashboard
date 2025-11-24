@@ -1,0 +1,11 @@
+Store_ID,Location,Region,Store_Size,Manager
+S1,Brampton,South,Medium,Manager_1
+S2,Hamilton,South,Medium,Manager_2
+S3,Mississauga,South,Small,Manager_3
+S4,Hamilton,North,Small,Manager_4
+S5,Hamilton,West,Medium,Manager_5
+S6,Ottawa,East,Medium,Manager_6
+S7,Mississauga,West,Small,Manager_7
+S8,Mississauga,South,Small,Manager_8
+S9,Mississauga,South,Small,Manager_9
+S10,Hamilton,West,Large,Manager_10
